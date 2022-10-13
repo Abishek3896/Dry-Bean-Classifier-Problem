@@ -1,5 +1,6 @@
 # Dry-Bean-Classifier-Problem
 An Explanatory Data Analysis would be done on the Dataset and also normalized by using box-cox power transformation in the preprocessing phase to be applied to the different classification algorithms for the accuracy and also identifying the differences between the algorithms. 
+
 Brief about data:
 
 Food authentication in the industries and global market, is always a big challege. Claim over grade and no adulteration with other varities, increases the price of the prdouct. This study tries to classifiy the dry beans in seven different varities on the basis of 16 different features.
